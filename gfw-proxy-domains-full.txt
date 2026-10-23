@@ -632,6 +632,7 @@
 24.co.za
 24.is-a-player.com
 24.now-ip.net
+24.place
 24.port25.biz
 24.slyip.net
 24.wha.la
@@ -6992,6 +6993,8 @@ block.cc
 blockaway.net
 blockcast.it
 blockchain.com
+blockchair.com
+blockchair.net
 blockcn.com
 blockedbyhk.com
 blockfrost.io
@@ -11233,6 +11236,7 @@ consilience.ac.uk
 console.api.ai
 console.infiniport.xyz
 console.marsix.net
+console.typesafe.ai
 consortium.lgbt
 constellationnetwork.io
 constitutionalism.solutions
@@ -11499,6 +11503,7 @@ crabdance.com
 crabporn.com
 crabriones.com.ar
 crackle.com
+craftifyx.com
 craigslist.org
 craiyon.com
 cral.ac.uk
@@ -11667,6 +11672,7 @@ cryptocat.org
 cryptocoinsnews.com
 cryptocompare.com
 cryptographyengineering.com
+cryptoid.info
 cryptomus.com
 crypton.co.jp
 cryptonex.org
@@ -13048,6 +13054,7 @@ delcamp.net
 delcamtv.com
 delcamuniversity.com
 delcamusa.com
+delets.cash
 delets.online
 delfi.lv
 delias.com
@@ -16950,6 +16957,7 @@ fancy7.com
 fandango.com
 fandom.com
 fandom.zendesk.com
+fanfiction.net
 fanfictionero.com
 fanfox.net
 fangbinxing.com
@@ -18869,6 +18877,8 @@ fundsupermart.com
 funf.tw
 funimation.com
 funivers.net
+funko.com
+funko.my.site.com
 funkyimg.com
 funny-video-online.com
 funnycat.tv
@@ -19078,6 +19088,7 @@ g4w.me
 g5.slyip.com
 g6hentai.com
 g718.sx
+ga.jspm.io
 gaadionroad.com
 gab.com
 gabed.net
@@ -19139,6 +19150,7 @@ game.maj-soul.com
 game735.com
 game88city.com
 gameapps.hk
+gamebanana.com
 gamebase.com.tw
 gamebiz.jp
 gamebusiness.jp
@@ -19673,6 +19685,7 @@ getpricetag.com
 getprintersupports.com
 getrelax.club
 gets-it.net
+getsafety.com
 getscorecash.com
 getsentry.com
 getsession.org
@@ -20003,6 +20016,8 @@ glenfife.ac.uk
 gleninnesexaminer.com.au
 glenrothes-college.ac.uk
 glhl.ac.uk
+glitchprod.com
+glitchproductions.store
 glitchwave.com
 gllm.ac.uk
 global-minbar.com
@@ -27106,6 +27121,7 @@ kunimorishu.jp
 kupujemprodajem.com
 kurashsultan.com
 kuromis.com
+kurs.expert
 kurtmunger.com
 kusocity.com
 kusugurizanmai.com
@@ -29034,6 +29050,7 @@ makerepeater.jp
 makersplace.com
 makersuite.google.com
 makesenseofdata.com
+makeship.com
 makeshop.jp
 makingassessmentcount.ac.uk
 makingstartshere.com
@@ -35082,6 +35099,7 @@ owl.li
 owlapps.net
 owltail.com
 owmvhpxyisu6fgd7r2fcswgavs7jly4znldaey33utadwmgbbp4pysad.onion.ly
+ownaj.com
 ownyourbits.com
 ows2.cat.flnet.org
 owsc.ac.uk
@@ -37913,6 +37931,7 @@ pythonhackers.com
 pythonhosted.org
 pythonic.life
 pytorch.org
+pyup.io
 pz-news.de
 pz.gov.pl
 pz9it7zq.chaolu.shop
@@ -38250,6 +38269,7 @@ r2---sn-q4fl6ne6.googlevideo.com
 r2.ca
 r2.dev
 r25.jp
+r2modman.com
 r2pro.net
 r3---sn-4g5ednek.googlevideo.com
 r3---sn-5go7ynez.googlevideo.com
@@ -40031,6 +40051,7 @@ safervpn.com
 safeservedns.com
 safeswiss.com
 safety.google
+safetycli.com
 safevpn.net
 saffrontech.com
 saga-s.co.jp
@@ -43314,6 +43335,7 @@ steaminventoryhelper.com
 steamladder.com
 steammobile.akamaized.net
 steamofporn.com
+steamos.cloud
 steampipe-kr.akamaized.net
 steampipe-partner.akamaized.net
 steampipe.akamaized.net
@@ -44755,6 +44777,7 @@ tgirlpostop.com
 tgp6.com
 tgraph.io
 tgstat.com
+tgtime.store
 tgtube.com
 tgutube.com
 th-cam.com
@@ -45260,6 +45283,8 @@ thunder.free-signal.com
 thunderbird.net
 thunderbolttechnology.net
 thundermail.com
+thunderstore.io
+thunderstore.org
 thurdata.ch
 thurrock.ac.uk
 thurrockcampus.ac.uk
@@ -45644,6 +45669,7 @@ tmhk.org
 tmhtmiao.com
 tmi.me
 tmiaf.ru
+tmimgcdn.com
 tmn.ac.uk
 tmnews.it
 tmpp.org
@@ -50596,6 +50622,7 @@ worldoftanks.com
 worldoftanks.eu
 worldofwarcraft.com
 worldofwarplanes.com
+worldofwarships.asia
 worldofwarships.com
 worldpoliticsreview.com
 worldpopulationreview.com
@@ -57192,6 +57219,7 @@ youthele.com.tw
 youthforfreechina.org
 youthnetradio.org
 youthwant.com.tw
+youtooz.com
 youtrack.cloud
 youtrannytube.com
 youtu.be

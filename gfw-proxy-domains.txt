@@ -588,6 +588,7 @@
 24.co.za
 24.is-a-player.com
 24.now-ip.net
+24.place
 246av.com
 248bc.com
 24fa.com
@@ -6085,6 +6086,8 @@ block.cc
 blockaway.net
 blockcast.it
 blockchain.com
+blockchair.com
+blockchair.net
 blockcn.com
 blockedbyhk.com
 blockfrost.io
@@ -9694,6 +9697,7 @@ crabdance.com
 crabporn.com
 crabriones.com.ar
 crackle.com
+craftifyx.com
 craigslist.org
 craiyon.com
 crankplayer.com
@@ -9813,6 +9817,7 @@ cryptocat.org
 cryptocoinsnews.com
 cryptocompare.com
 cryptographyengineering.com
+cryptoid.info
 cryptomus.com
 crypton.co.jp
 cryptonex.org
@@ -10526,6 +10531,7 @@ delcamp.net
 delcamtv.com
 delcamuniversity.com
 delcamusa.com
+delets.cash
 delets.online
 delfi.lv
 delias.com
@@ -13751,6 +13757,7 @@ fancentro.com
 fancy7.com
 fandango.com
 fandom.com
+fanfiction.net
 fanfictionero.com
 fanfox.net
 fangbinxing.com
@@ -15499,6 +15506,7 @@ fundsupermart.com
 funf.tw
 funimation.com
 funivers.net
+funko.com
 funkyimg.com
 funny-video-online.com
 funnycat.tv
@@ -15676,6 +15684,7 @@ g3.luciaz.me
 g4w.me
 g6hentai.com
 g718.sx
+ga.jspm.io
 gaadionroad.com
 gab.com
 gabed.net
@@ -15732,6 +15741,7 @@ game.maj-soul.com
 game735.com
 game88city.com
 gameapps.hk
+gamebanana.com
 gamebase.com.tw
 gamebiz.jp
 gamebusiness.jp
@@ -16201,6 +16211,7 @@ getpricetag.com
 getprintersupports.com
 getrelax.club
 gets-it.net
+getsafety.com
 getscorecash.com
 getsentry.com
 getsession.org
@@ -16486,6 +16497,8 @@ gleeze.com
 gleline.com
 glemte.no
 gleninnesexaminer.com.au
+glitchprod.com
+glitchproductions.store
 glitchwave.com
 global-minbar.com
 global-proxy.com
@@ -22693,6 +22706,7 @@ kunimorishu.jp
 kupujemprodajem.com
 kurashsultan.com
 kuromis.com
+kurs.expert
 kurtmunger.com
 kusocity.com
 kusugurizanmai.com
@@ -24168,6 +24182,7 @@ makerdao.com
 makerepeater.jp
 makersplace.com
 makesenseofdata.com
+makeship.com
 makeshop.jp
 makingstartshere.com
 makkahlive.net
@@ -29241,6 +29256,7 @@ owind.com
 owl.li
 owlapps.net
 owltail.com
+ownaj.com
 ownyourbits.com
 owu.se
 owxd.xyz
@@ -31744,6 +31760,7 @@ pythonhackers.com
 pythonhosted.org
 pythonic.life
 pytorch.org
+pyup.io
 pz-news.de
 pz.gov.pl
 pz9it7zq.chaolu.shop
@@ -32038,6 +32055,7 @@ r18lu.com
 r2.ca
 r2.dev
 r25.jp
+r2modman.com
 r2pro.net
 r34anim.com
 r34comics.com
@@ -33303,6 +33321,7 @@ safervpn.com
 safeservedns.com
 safeswiss.com
 safety.google
+safetycli.com
 safevpn.net
 saffrontech.com
 saga-s.co.jp
@@ -35916,6 +35935,7 @@ steamgames.com
 steaminventoryhelper.com
 steamladder.com
 steamofporn.com
+steamos.cloud
 steampowered.com
 steamserver.net
 steamstat.us
@@ -37048,6 +37068,7 @@ tgirlpostop.com
 tgp6.com
 tgraph.io
 tgstat.com
+tgtime.store
 tgtube.com
 tgutube.com
 th-cam.com
@@ -37496,6 +37517,8 @@ thunder.free-signal.com
 thunderbird.net
 thunderbolttechnology.net
 thundermail.com
+thunderstore.io
+thunderstore.org
 thurdata.ch
 thus.org
 thuvienhoasen.org
@@ -37825,6 +37848,7 @@ tmhk.org
 tmhtmiao.com
 tmi.me
 tmiaf.ru
+tmimgcdn.com
 tmnews.it
 tmpp.org
 tmsnrt.rs
@@ -42002,6 +42026,7 @@ worldoftanks.com
 worldoftanks.eu
 worldofwarcraft.com
 worldofwarplanes.com
+worldofwarships.asia
 worldofwarships.com
 worldpoliticsreview.com
 worldpopulationreview.com
@@ -47600,6 +47625,7 @@ youthele.com.tw
 youthforfreechina.org
 youthnetradio.org
 youthwant.com.tw
+youtooz.com
 youtrack.cloud
 youtrannytube.com
 youtu.be
