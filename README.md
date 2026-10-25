@@ -2,15 +2,17 @@
 
 合并多个开源规则库的国外代理（GFW / Proxy）域名，去掉前缀、正则、关键词和 IP 类规则，统一小写、校验格式后去重，并剔除与国内直连列表完全相同的域名，输出一行一个的纯域名。每天北京时间 02:45 由 GitHub Actions 自动更新。
 
-最近更新：2026-10-26 03:10 CST　上游来源：33 个（成功 33，失败 0）
+最近更新：2026-10-26 03:14 CST　上游来源：33 个（成功 33，失败 0）
 
 ## 文件
 
-| 文件 | 说明 | 条数 | 链接 |
+| 文件 | 说明 | 条数 | 下载 |
 | --- | --- | ---: | --- |
-| gfw-proxy-domains.txt | 精简版（父域名已在列表时去掉子域名） | 48,581 | [raw](https://raw.githubusercontent.com/passionsu-su/gfw-proxy-domain/main/gfw-proxy-domains.txt) |
-| gfw-proxy-domains-full.txt | 完整去重版 | 58,232 | [raw](https://raw.githubusercontent.com/passionsu-su/gfw-proxy-domain/main/gfw-proxy-domains-full.txt) |
-| stats.json | 各来源条数与失败来源 | - | [raw](https://raw.githubusercontent.com/passionsu-su/gfw-proxy-domain/main/stats.json) |
+| gfw-proxy-domains.txt | 精简版（父域名已在列表时去掉子域名） | 48,581 | [raw](https://raw.githubusercontent.com/passionsu-su/gfw-proxy-domain/main/gfw-proxy-domains.txt) · [ghfast](https://ghfast.top/https://raw.githubusercontent.com/passionsu-su/gfw-proxy-domain/main/gfw-proxy-domains.txt) · [gh-proxy](https://gh-proxy.com/https://raw.githubusercontent.com/passionsu-su/gfw-proxy-domain/main/gfw-proxy-domains.txt) · [jsDelivr-Fastly](https://fastly.jsdelivr.net/gh/passionsu-su/gfw-proxy-domain@main/gfw-proxy-domains.txt) · [jsDelivr-CF](https://testingcf.jsdelivr.net/gh/passionsu-su/gfw-proxy-domain@main/gfw-proxy-domains.txt) |
+| gfw-proxy-domains-full.txt | 完整去重版 | 58,232 | [raw](https://raw.githubusercontent.com/passionsu-su/gfw-proxy-domain/main/gfw-proxy-domains-full.txt) · [ghfast](https://ghfast.top/https://raw.githubusercontent.com/passionsu-su/gfw-proxy-domain/main/gfw-proxy-domains-full.txt) · [gh-proxy](https://gh-proxy.com/https://raw.githubusercontent.com/passionsu-su/gfw-proxy-domain/main/gfw-proxy-domains-full.txt) · [jsDelivr-Fastly](https://fastly.jsdelivr.net/gh/passionsu-su/gfw-proxy-domain@main/gfw-proxy-domains-full.txt) · [jsDelivr-CF](https://testingcf.jsdelivr.net/gh/passionsu-su/gfw-proxy-domain@main/gfw-proxy-domains-full.txt) |
+| stats.json | 各来源条数与失败来源 | - | [raw](https://raw.githubusercontent.com/passionsu-su/gfw-proxy-domain/main/stats.json) · [ghfast](https://ghfast.top/https://raw.githubusercontent.com/passionsu-su/gfw-proxy-domain/main/stats.json) · [gh-proxy](https://gh-proxy.com/https://raw.githubusercontent.com/passionsu-su/gfw-proxy-domain/main/stats.json) · [jsDelivr-Fastly](https://fastly.jsdelivr.net/gh/passionsu-su/gfw-proxy-domain@main/stats.json) · [jsDelivr-CF](https://testingcf.jsdelivr.net/gh/passionsu-su/gfw-proxy-domain@main/stats.json) |
+
+国内访问：raw 直连不稳定时可用表中镜像。ghfast / gh-proxy 为第三方 GitHub 代理，实时获取最新文件；jsDelivr（Fastly / Cloudflare 节点）有缓存，每次更新后工作流会主动刷新缓存，个别节点可能仍滞后几分钟到数小时。第三方镜像可能随时失效，请多备一个。
 
 ## 上游规则库
 
