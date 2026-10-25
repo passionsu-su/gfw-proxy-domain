@@ -197,6 +197,20 @@ def page(url):
     return f"{o}/{r}", f"https://github.com/{o}/{r}", f"https://github.com/{o}/{r}/blob/{b}/{p}"
 
 
+MIRRORS_REPO = "passionsu-su/gfw-proxy-domain"
+
+
+def dl_links(name):
+    raw = f"https://raw.githubusercontent.com/{MIRRORS_REPO}/main/{name}"
+    return " · ".join([
+        f"[raw]({raw})",
+        f"[ghfast]({'https://ghfast.top/' + raw})",
+        f"[gh-proxy]({'https://gh-proxy.com/' + raw})",
+        f"[jsDelivr-Fastly](https://fastly.jsdelivr.net/gh/{MIRRORS_REPO}@main/{name})",
+        f"[jsDelivr-CF](https://testingcf.jsdelivr.net/gh/{MIRRORS_REPO}@main/{name})",
+    ])
+
+
 def write_readme(st, urls, order):
     failed_names = {x.split(" (")[0] for x in st["failed"]}
     nsrc = len(order)
@@ -204,10 +218,11 @@ def write_readme(st, urls, order):
          "合并多个开源规则库的国外代理（GFW / Proxy）域名，去掉前缀、正则、关键词和 IP 类规则，统一小写、校验格式后去重，并剔除与国内直连列表完全相同的域名，输出一行一个的纯域名。每天北京时间 02:45 由 GitHub Actions 自动更新。", "",
          f"最近更新：{st['updated']}　上游来源：{nsrc} 个（成功 {nsrc - len(failed_names & set(order))}，失败 {len(failed_names & set(order))}）", "",
          "## 文件", "",
-         "| 文件 | 说明 | 条数 | 链接 |", "| --- | --- | ---: | --- |",
-         f"| gfw-proxy-domains.txt | 精简版（父域名已在列表时去掉子域名） | {st['compact']:,} | [raw]({REPO_RAW}gfw-proxy-domains.txt) |",
-         f"| gfw-proxy-domains-full.txt | 完整去重版 | {st['full']:,} | [raw]({REPO_RAW}gfw-proxy-domains-full.txt) |",
-         f"| stats.json | 各来源条数与失败来源 | - | [raw]({REPO_RAW}stats.json) |", "",
+         "| 文件 | 说明 | 条数 | 下载 |", "| --- | --- | ---: | --- |",
+         f"| gfw-proxy-domains.txt | 精简版（父域名已在列表时去掉子域名） | {st['compact']:,} | {dl_links('gfw-proxy-domains.txt')} |",
+         f"| gfw-proxy-domains-full.txt | 完整去重版 | {st['full']:,} | {dl_links('gfw-proxy-domains-full.txt')} |",
+         f"| stats.json | 各来源条数与失败来源 | - | {dl_links('stats.json')} |", "",
+         "国内访问：raw 直连不稳定时可用表中镜像。ghfast / gh-proxy 为第三方 GitHub 代理，实时获取最新文件；jsDelivr（Fastly / Cloudflare 节点）有缓存，每次更新后工作流会主动刷新缓存，个别节点可能仍滞后几分钟到数小时。第三方镜像可能随时失效，请多备一个。", "",
          "## 上游规则库", "",
          "| # | 来源 | 规则库 | 文件 | 有效域名数 | 状态 |", "| ---: | --- | --- | --- | ---: | --- |"]
     for i, n in enumerate(order, 1):
