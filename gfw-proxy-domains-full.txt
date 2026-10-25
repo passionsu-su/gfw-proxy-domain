@@ -516,6 +516,7 @@
 1password.co
 1password.com
 1password.community
+1password.dev
 1password.drift.click
 1password.eu
 1password.io
@@ -9608,6 +9609,9 @@ cdp2006.org
 cdpa.url.tw
 cdpeu.org
 cdphcm.sony.com.cn
+cdpred.services
+cdprojekt.com
+cdprojekt.red
 cdprojektred.com
 cdpuk.co.uk
 cdpusa.org
@@ -11965,6 +11969,7 @@ cyberghost-vpn.updatestar.com
 cyberghost.com
 cyberghostvpn.com
 cyberpolice.gov.ua
+cyberpunk.net
 cyberpunkdatabase.net
 cybersecurity-cdt.ac.uk
 cybersecurity.masto.host
@@ -30997,6 +31002,7 @@ moefuns.org
 moefuns.vip
 moefuns1.com
 moefuns1.work
+moegirl.org
 moegirl.xyz
 moeimg.net
 moeli-desu.com
@@ -36390,6 +36396,7 @@ playfabcn.com
 playfamily.ru
 playforceone.com
 playgroundai.com
+playgwent.com
 playhearthstone.com
 playmarket-for-pc.com
 playmation.com
@@ -45180,6 +45187,7 @@ thewikihow.com
 thewire.in
 thewirechina.com
 thewirecutter.com
+thewitcher.com
 thewomenslibrary.ac.uk
 thewonderful101.com
 theworld.org
@@ -55966,6 +55974,12 @@ xn--d4ty0ojsqzfd.com
 xn--e1adjldbbpv.xn--90ais
 xn--e1aigb.xn--p1ai
 xn--fiq681d48s.org
+xn--fiq80y.hk
+xn--fiq80y.xn--j6w193g
+xn--fiq80y3xbiwr.hk
+xn--fiq80y3xbiwr.xn--j6w193g
+xn--fiq80y3xbiwrs0kiu9d.hk
+xn--fiq80y3xbiwrs0kiu9d.xn--j6w193g
 xn--fiqs8s1bxp3anr7a.hk
 xn--fiqs8s1bxp3anr7a.xn--j6w193g
 xn--fiqs8s1byzqyvl.hk
@@ -56002,6 +56016,7 @@ xn--p8j9a0d9c9a.xn--q9jyb4c
 xn--pearsonenespaol-brb.com
 xn--pssu7ci2j23mp9ny48b.hk
 xn--pssu7ci2j23mp9ny48b.xn--j6w193g
+xn--pssu7ci3q5oge0ai91q.xn--j6w193g
 xn--pssu7cv61af1tcs59bnvd.hk
 xn--pssu7cv61af1tcs59bnvd.xn--j6w193g
 xn--pssu7cv61af44b.hk
@@ -56010,6 +56025,7 @@ xn--pssu7cv61ahw8aq79bztd.hk
 xn--pssu7cv61ahw8aq79bztd.xn--j6w193g
 xn--pssu7cv61ahwcb1p2yk.hk
 xn--pssu7cv61ahwcb1p2yk.xn--j6w193g
+xn--pssu7cz8nr8ibkx1e8a.xn--j6w193g
 xn--pxtr7m5ny.com
 xn--q41am8x.com
 xn--qhrx81fxh2a.xn--55qx5d.hk
