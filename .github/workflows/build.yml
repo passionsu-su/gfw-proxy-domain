@@ -19,3 +19,9 @@ jobs:
           git add gfw-proxy-domains.txt gfw-proxy-domains-full.txt stats.json README.md
           git diff --cached --quiet || git commit -m "update $(date -u +%F)"
           git push
+      - name: purge jsdelivr cache
+        continue-on-error: true
+        run: |
+          for f in gfw-proxy-domains.txt gfw-proxy-domains-full.txt stats.json README.md; do
+            curl -s -m 30 "https://purge.jsdelivr.net/gh/passionsu-su/gfw-proxy-domain@main/$f" > /dev/null || true
+          done
