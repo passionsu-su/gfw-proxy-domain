@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-26 03:14 CST",
-  "full": 58232,
-  "compact": 48581,
+  "updated": "2026-10-27 01:36 CST",
+  "full": 58219,
+  "compact": 48568,
   "removed_china_conflicts": 2007,
   "sources": {
     "Loyalsoldier proxy-list": 27246,
@@ -9,8 +9,8 @@
     "Loyalsoldier clash-rules proxy": 27246,
     "Loyalsoldier clash-rules gfw": 4443,
     "gfwlist": 4374,
-    "blackmatrix7 Global_Domain": 35101,
-    "blackmatrix7 Proxy_Domain": 6839,
+    "blackmatrix7 Global_Domain": 35111,
+    "blackmatrix7 Proxy_Domain": 6859,
     "ACL4SSR ProxyGFWlist": 6867,
     "ACL4SSR ProxyLite": 313,
     "Johnshall sr_top500_banlist": 30209,
@@ -35,7 +35,7 @@
     "LOWERTOP RULE-SET Microsoft.list": 657,
     "LOWERTOP RULE-SET Google.list": 685,
     "LOWERTOP RULE-SET TikTok.list": 32,
-    "LOWERTOP RULE-SET Global.list": 35791,
+    "LOWERTOP RULE-SET Global.list": 35801,
     "LOWERTOP lazy.conf 内联 PROXY": 3
   },
   "failed": []

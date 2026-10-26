@@ -1,15 +1,15 @@
 # gfw-proxy-domain
 
-合并多个开源规则库的国外代理（GFW / Proxy）域名，去掉前缀、正则、关键词和 IP 类规则，统一小写、校验格式后去重，并剔除与国内直连列表完全相同的域名，输出一行一个的纯域名。每天北京时间 02:45 由 GitHub Actions 自动更新。
+合并多个开源规则库的国外代理（GFW / Proxy）域名，去掉前缀、正则、关键词和 IP 类规则，统一小写、校验格式后去重，并剔除与国内直连列表完全相同的域名，输出一行一个的纯域名。每月 1 日北京时间 08:45 由 GitHub Actions 自动更新。
 
-最近更新：2026-10-26 03:14 CST　上游来源：33 个（成功 33，失败 0）
+最近更新：2026-10-27 01:36 CST　上游来源：33 个（成功 33，失败 0）
 
 ## 文件
 
 | 文件 | 说明 | 条数 | 下载 |
 | --- | --- | ---: | --- |
-| gfw-proxy-domains.txt | 精简版（父域名已在列表时去掉子域名） | 48,581 | [raw](https://raw.githubusercontent.com/passionsu-su/gfw-proxy-domain/main/gfw-proxy-domains.txt) · [ghfast](https://ghfast.top/https://raw.githubusercontent.com/passionsu-su/gfw-proxy-domain/main/gfw-proxy-domains.txt) · [gh-proxy](https://gh-proxy.com/https://raw.githubusercontent.com/passionsu-su/gfw-proxy-domain/main/gfw-proxy-domains.txt) · [jsDelivr-Fastly](https://fastly.jsdelivr.net/gh/passionsu-su/gfw-proxy-domain@main/gfw-proxy-domains.txt) · [jsDelivr-CF](https://testingcf.jsdelivr.net/gh/passionsu-su/gfw-proxy-domain@main/gfw-proxy-domains.txt) |
-| gfw-proxy-domains-full.txt | 完整去重版 | 58,232 | [raw](https://raw.githubusercontent.com/passionsu-su/gfw-proxy-domain/main/gfw-proxy-domains-full.txt) · [ghfast](https://ghfast.top/https://raw.githubusercontent.com/passionsu-su/gfw-proxy-domain/main/gfw-proxy-domains-full.txt) · [gh-proxy](https://gh-proxy.com/https://raw.githubusercontent.com/passionsu-su/gfw-proxy-domain/main/gfw-proxy-domains-full.txt) · [jsDelivr-Fastly](https://fastly.jsdelivr.net/gh/passionsu-su/gfw-proxy-domain@main/gfw-proxy-domains-full.txt) · [jsDelivr-CF](https://testingcf.jsdelivr.net/gh/passionsu-su/gfw-proxy-domain@main/gfw-proxy-domains-full.txt) |
+| gfw-proxy-domains.txt | 精简版（父域名已在列表时去掉子域名） | 48,568 | [raw](https://raw.githubusercontent.com/passionsu-su/gfw-proxy-domain/main/gfw-proxy-domains.txt) · [ghfast](https://ghfast.top/https://raw.githubusercontent.com/passionsu-su/gfw-proxy-domain/main/gfw-proxy-domains.txt) · [gh-proxy](https://gh-proxy.com/https://raw.githubusercontent.com/passionsu-su/gfw-proxy-domain/main/gfw-proxy-domains.txt) · [jsDelivr-Fastly](https://fastly.jsdelivr.net/gh/passionsu-su/gfw-proxy-domain@main/gfw-proxy-domains.txt) · [jsDelivr-CF](https://testingcf.jsdelivr.net/gh/passionsu-su/gfw-proxy-domain@main/gfw-proxy-domains.txt) |
+| gfw-proxy-domains-full.txt | 完整去重版 | 58,219 | [raw](https://raw.githubusercontent.com/passionsu-su/gfw-proxy-domain/main/gfw-proxy-domains-full.txt) · [ghfast](https://ghfast.top/https://raw.githubusercontent.com/passionsu-su/gfw-proxy-domain/main/gfw-proxy-domains-full.txt) · [gh-proxy](https://gh-proxy.com/https://raw.githubusercontent.com/passionsu-su/gfw-proxy-domain/main/gfw-proxy-domains-full.txt) · [jsDelivr-Fastly](https://fastly.jsdelivr.net/gh/passionsu-su/gfw-proxy-domain@main/gfw-proxy-domains-full.txt) · [jsDelivr-CF](https://testingcf.jsdelivr.net/gh/passionsu-su/gfw-proxy-domain@main/gfw-proxy-domains-full.txt) |
 | stats.json | 各来源条数与失败来源 | - | [raw](https://raw.githubusercontent.com/passionsu-su/gfw-proxy-domain/main/stats.json) · [ghfast](https://ghfast.top/https://raw.githubusercontent.com/passionsu-su/gfw-proxy-domain/main/stats.json) · [gh-proxy](https://gh-proxy.com/https://raw.githubusercontent.com/passionsu-su/gfw-proxy-domain/main/stats.json) · [jsDelivr-Fastly](https://fastly.jsdelivr.net/gh/passionsu-su/gfw-proxy-domain@main/stats.json) · [jsDelivr-CF](https://testingcf.jsdelivr.net/gh/passionsu-su/gfw-proxy-domain@main/stats.json) |
 
 国内访问：raw 直连不稳定时可用表中镜像。ghfast / gh-proxy 为第三方 GitHub 代理，实时获取最新文件；jsDelivr（Fastly / Cloudflare 节点）有缓存，每次更新后工作流会主动刷新缓存，个别节点可能仍滞后几分钟到数小时。第三方镜像可能随时失效，请多备一个。
@@ -23,8 +23,8 @@
 | 3 | Loyalsoldier clash-rules proxy | [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) | [proxy.txt](https://github.com/Loyalsoldier/clash-rules/blob/release/proxy.txt) | 27,246 | 正常 |
 | 4 | Loyalsoldier clash-rules gfw | [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) | [gfw.txt](https://github.com/Loyalsoldier/clash-rules/blob/release/gfw.txt) | 4,443 | 正常 |
 | 5 | gfwlist | [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist) | [gfwlist.txt](https://github.com/gfwlist/gfwlist/blob/master/gfwlist.txt) | 4,374 | 正常 |
-| 6 | blackmatrix7 Global_Domain | [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) | [Global_Domain.list](https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Shadowrocket/Global/Global_Domain.list) | 35,101 | 正常 |
-| 7 | blackmatrix7 Proxy_Domain | [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) | [Proxy_Domain.list](https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Shadowrocket/Proxy/Proxy_Domain.list) | 6,839 | 正常 |
+| 6 | blackmatrix7 Global_Domain | [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) | [Global_Domain.list](https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Shadowrocket/Global/Global_Domain.list) | 35,111 | 正常 |
+| 7 | blackmatrix7 Proxy_Domain | [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) | [Proxy_Domain.list](https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Shadowrocket/Proxy/Proxy_Domain.list) | 6,859 | 正常 |
 | 8 | ACL4SSR ProxyGFWlist | [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) | [ProxyGFWlist.list](https://github.com/ACL4SSR/ACL4SSR/blob/master/Clash/ProxyGFWlist.list) | 6,867 | 正常 |
 | 9 | ACL4SSR ProxyLite | [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) | [ProxyLite.list](https://github.com/ACL4SSR/ACL4SSR/blob/master/Clash/ProxyLite.list) | 313 | 正常 |
 | 10 | Johnshall sr_top500_banlist | [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) | [sr_top500_banlist.conf](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever/blob/release/sr_top500_banlist.conf) | 30,209 | 正常 |
@@ -49,7 +49,7 @@
 | 29 | LOWERTOP RULE-SET Microsoft.list | [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) | [Microsoft.list](https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Shadowrocket/Microsoft/Microsoft.list) | 657 | 正常 |
 | 30 | LOWERTOP RULE-SET Google.list | [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) | [Google.list](https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Shadowrocket/Google/Google.list) | 685 | 正常 |
 | 31 | LOWERTOP RULE-SET TikTok.list | [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) | [TikTok.list](https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Shadowrocket/TikTok/TikTok.list) | 32 | 正常 |
-| 32 | LOWERTOP RULE-SET Global.list | [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) | [Global.list](https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/QuantumultX/Global/Global.list) | 35,791 | 正常 |
+| 32 | LOWERTOP RULE-SET Global.list | [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) | [Global.list](https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/QuantumultX/Global/Global.list) | 35,801 | 正常 |
 | 33 | LOWERTOP lazy.conf 内联 PROXY | [LOWERTOP/Shadowrocket](https://github.com/LOWERTOP/Shadowrocket) | [lazy.conf](https://github.com/LOWERTOP/Shadowrocket/blob/main/lazy.conf) | 3 | 正常 |
 
 有效域名数为从该文件解析出的合法域名条数（含与其他来源重叠的部分）。LOWERTOP 的规则集由 lazy.conf 中所有 `RULE-SET ...,PROXY` 动态解析，Johnshall 只取策略为 Proxy 的规则，lazy.conf 变化时来源会随之增减。
