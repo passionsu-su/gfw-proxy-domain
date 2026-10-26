@@ -215,7 +215,7 @@ def write_readme(st, urls, order):
     failed_names = {x.split(" (")[0] for x in st["failed"]}
     nsrc = len(order)
     L = ["# gfw-proxy-domain", "",
-         "合并多个开源规则库的国外代理（GFW / Proxy）域名，去掉前缀、正则、关键词和 IP 类规则，统一小写、校验格式后去重，并剔除与国内直连列表完全相同的域名，输出一行一个的纯域名。每天北京时间 02:45 由 GitHub Actions 自动更新。", "",
+         "合并多个开源规则库的国外代理（GFW / Proxy）域名，去掉前缀、正则、关键词和 IP 类规则，统一小写、校验格式后去重，并剔除与国内直连列表完全相同的域名，输出一行一个的纯域名。每月 1 日北京时间 08:45 由 GitHub Actions 自动更新。", "",
          f"最近更新：{st['updated']}　上游来源：{nsrc} 个（成功 {nsrc - len(failed_names & set(order))}，失败 {len(failed_names & set(order))}）", "",
          "## 文件", "",
          "| 文件 | 说明 | 条数 | 下载 |", "| --- | --- | ---: | --- |",
