@@ -347,6 +347,7 @@
 18comic.bet
 18comic.cc
 18comic.company
+18comic.ink
 18comic.life
 18comic.live
 18comic.org
@@ -3944,6 +3945,7 @@ arthousekinos-bielefeld.de
 arthub.ai
 artibet.com
 article19.org
+artificialanalysis.ai
 artiptv.eu
 artixlinux.org
 artk.pwnz.org
@@ -5836,6 +5838,7 @@ bingpix.com
 bingpk.com
 bings.com
 bingsandbox.com
+bingstatic.com
 bingtoolbar.com
 bingtranslator.com
 bingvisualsearch.com
@@ -7197,6 +7200,7 @@ bsdrp.net
 bsersd.xyz
 bsi.ir
 bsky.app
+bsky.chat
 bsky.network
 bsky.social
 bsn.ie
@@ -9000,6 +9004,7 @@ clients.synchr.com
 climate-server.com
 climate.onebuilding.org
 climatedatalibrary.cl
+cline.bot
 clinica-tibet.ru
 clinical-videos.com
 clinicalkey.com
@@ -9421,6 +9426,7 @@ comixzilla.com
 comm-verse.com
 commandandconquer.com
 commandarms.com
+commandcode.ai
 comments.app
 commentshk.com
 commerceos.com
@@ -9522,6 +9528,7 @@ contentful.com
 contentparty.org
 contest.com
 contestfx.com
+context7.com
 contrareplica.mx
 contribute.amtbtn.org
 conversations.im
@@ -10281,6 +10288,7 @@ daruliftaahlesunnat.net
 darulmadinah.net
 darwindimensions.com
 dasaob.online
+dash.ai
 dash.idol.qzz.io
 dash.project-cyber.com
 dash2.newsntp.net
@@ -10364,6 +10372,7 @@ dbinvesting.com
 dbmoscow.ru
 dbo-dengi.online
 dbr.ee
+dc.services.visualstudio.com
 dc0062.com
 dc0064.com
 dc0073.com
@@ -11459,6 +11468,7 @@ docs.new
 docs.rs
 docs.rw
 docs.wannaflix.net
+docsend.com
 docslide.net
 docsplayer.com
 docsquirt.com
@@ -16458,6 +16468,7 @@ githubapp.com
 githubassets.com
 githubcopilot.com
 githubhackathon.com
+githubhelp.com
 githubmemory.com
 githubnext.com
 githubpreview.dev
@@ -20990,6 +21001,7 @@ ivacy.com
 ivanprado.es
 iverycd.com
 ivi.ru
+ivi.tv
 ivicdn.tv
 ivintageporn.com
 ivonblog.com
@@ -23245,6 +23257,7 @@ libreswan.org
 libretooth.gr
 libretube.dev
 librevpn.org
+librewolf.dev
 librewolf.net
 libsolutions.app
 libsolutions.domains
@@ -24962,6 +24975,7 @@ messytube.com
 met-nude.com
 meta.ai
 meta.com
+metaaiusercontent.com
 metaaivm.com
 metabora.io
 metabrainz.org
@@ -26326,6 +26340,7 @@ msftcloudes.cn
 msfteducation.ca
 msftidentity.com
 msftnet.org
+msftstatic.com
 msgamesresearch.com
 msgamestudios.com
 msgsender.io
@@ -28104,6 +28119,7 @@ notube.lol
 notube.net
 notube.site
 notyoutube.com
+nousresearch.com
 nouvelles-du-monde.com
 nouvelobs.com
 novafile.com
@@ -33055,6 +33071,7 @@ rt-school.online
 rt.com
 rt.rs
 rt.ru
+rt.services.visualstudio.com
 rta.ae
 rtalabel.org
 rtarabic.com
@@ -37457,6 +37474,7 @@ thinkhk.com
 thinkingtaiwan.com
 thinkmarkets.asia
 thinkofliving.com
+thinkorswim.com
 thinkquarterly.co.uk
 thinkquarterly.com
 thinkwithgoogle.com
@@ -37710,9 +37728,12 @@ tiktokglobalshopv.com
 tiktokistheccp.com
 tiktokminis.us
 tiktokmusic.app
+tiktokshop.com
+tiktokstaticb.com
 tiktokv.com
 tiktokv.eu
 tiktokv.us
+tiktokvapp.com
 tiktokw.eu
 tiktokw.us
 tikvpn.com
@@ -47816,6 +47837,7 @@ youtubers.me
 youtubeunblocked.com
 youtufab.cc
 youversion.com
+youversionapi.com
 youwin.com
 youwould.com.au
 youwuss.com

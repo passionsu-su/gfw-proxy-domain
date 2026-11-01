@@ -370,6 +370,7 @@
 18comic.bet
 18comic.cc
 18comic.company
+18comic.ink
 18comic.life
 18comic.live
 18comic.org
@@ -4317,6 +4318,9 @@ apps.evozi.com
 apps.fbsbx.com
 appserviceenvironment.cn
 appsflayer.com
+appsgenaiserver-pa.clients.google.com
+appsgenaiserver-pa.clients6.google.com
+appsgenaiserver-pa.googleapis.com
 appshopper.com
 appsmail.ru
 appsocks.net
@@ -4491,6 +4495,7 @@ artibet.com
 article-b35f6809c3dc.herokuapp.com
 article19.org
 artifact.ac.uk
+artificialanalysis.ai
 artiptv.eu
 artixlinux.org
 artk.pwnz.org
@@ -6696,6 +6701,7 @@ bingpk.com
 bings.com
 bingsandbox.com
 bingsettingssearch.trafficmanager.net
+bingstatic.com
 bingtoolbar.com
 bingtranslator.com
 bingvisualsearch.com
@@ -8315,6 +8321,7 @@ bsixbrookehouse.ac.uk
 bsixbrookehousesixthformcollege.ac.uk
 bsixcollege.ac.uk
 bsky.app
+bsky.chat
 bsky.network
 bsky.social
 bsls.ac.uk
@@ -10605,6 +10612,7 @@ climate.onebuilding.org
 climatechangewales.ac.uk
 climatedatalibrary.cl
 climb.ac.uk
+cline.bot
 cling.omy.sg
 clinica-tibet.ru
 clinical-videos.com
@@ -11133,6 +11141,7 @@ comm-coll-hackney.ac.uk
 comm-verse.com
 commandandconquer.com
 commandarms.com
+commandcode.ai
 comments.app
 commentshk.com
 commerceos.com
@@ -11269,6 +11278,7 @@ contentparty.org
 contest.com
 contestfx.com
 contests.twilio.com
+context7.com
 continuingcounterreformation.blogspot.com.au
 continuingcounterreformation.blogspot.com.br
 continuingcounterreformation.blogspot.fi
@@ -12748,6 +12758,7 @@ dasaob.online
 dasg.ac.uk
 dash-1.ac.uk
 dash-tree-vis.herokuapp.com
+dash.ai
 dash.idol.qzz.io
 dash.project-cyber.com
 dash2.newsntp.net
@@ -12853,6 +12864,8 @@ dbmws10dbd2dl.cloudfront.net
 dbo-dengi.online
 dbo15s62lcu1q.cloudfront.net
 dbr.ee
+dc.applicationinsights.azure.com
+dc.services.visualstudio.com
 dc0062.com
 dc0064.com
 dc0073.com
@@ -14130,6 +14143,7 @@ docs.new
 docs.rs
 docs.rw
 docs.wannaflix.net
+docsend.com
 docslide.net
 docsplayer.com
 docsquirt.com
@@ -14454,6 +14468,7 @@ dropbooks.tv
 dropbox-dns.com
 dropbox.com
 dropbox.tech
+dropbox.zendesk.com
 dropboxapi.com
 dropboxbusiness.com
 dropboxcaptcha.com
@@ -19953,6 +19968,7 @@ githubapp.com
 githubassets.com
 githubcopilot.com
 githubhackathon.com
+githubhelp.com
 githubmemory.com
 githubnext.com
 githubpreview.dev
@@ -25219,6 +25235,7 @@ ivacy.com
 ivanprado.es
 iverycd.com
 ivi.ru
+ivi.tv
 ivicdn.tv
 ivintageporn.com
 ivonblog.com
@@ -27849,6 +27866,7 @@ libreswan.org
 libretooth.gr
 libretube.dev
 librevpn.org
+librewolf.dev
 librewolf.net
 libsolutions.app
 libsolutions.domains
@@ -28116,6 +28134,7 @@ live-kino.ru
 live-patreon-marketing.pantheonsite.io
 live-video.net
 live.ac.uk
+live.applicationinsights.azure.com
 live.cn
 live.com
 live.com.au
@@ -29983,6 +30002,7 @@ messytube.com
 met-nude.com
 meta.ai
 meta.com
+metaaiusercontent.com
 metaaivm.com
 metabolomics.ac.uk
 metabora.io
@@ -31481,6 +31501,7 @@ msftcloudes.cn
 msfteducation.ca
 msftidentity.com
 msftnet.org
+msftstatic.com
 msgamesresearch.com
 msgamestudios.com
 msgsender.io
@@ -33678,6 +33699,7 @@ notube.net
 notube.site
 notyoutube.com
 nou7.ddns.us
+nousresearch.com
 nouvelles-du-monde.com
 nouvelobs.com
 novafile.com
@@ -39736,6 +39758,7 @@ rt-school.online
 rt.com
 rt.rs
 rt.ru
+rt.services.visualstudio.com
 rta.ae
 rtalabel.org
 rtarabic.com
@@ -45217,6 +45240,7 @@ thinking3d.ac.uk
 thinkingtaiwan.com
 thinkmarkets.asia
 thinkofliving.com
+thinkorswim.com
 thinkquarterly.co.uk
 thinkquarterly.com
 thinkwales.ac.uk
@@ -45485,9 +45509,12 @@ tiktokglobalshopv.com
 tiktokistheccp.com
 tiktokminis.us
 tiktokmusic.app
+tiktokshop.com
+tiktokstaticb.com
 tiktokv.com
 tiktokv.eu
 tiktokv.us
+tiktokvapp.com
 tiktokw.eu
 tiktokw.us
 tikvpn.com
@@ -57417,6 +57444,7 @@ youtubers.me
 youtubeunblocked.com
 youtufab.cc
 youversion.com
+youversionapi.com
 youwin.com
 youwould.com.au
 youwuss.com
